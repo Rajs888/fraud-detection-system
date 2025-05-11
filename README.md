@@ -95,20 +95,3 @@ streamlit run app.py
 ```
 
 ---
-
-## 📸 Screenshots (Optional)
-
-*Add screenshots or a demo video link here to showcase your Streamlit app.*
-
----
-
-## 👨‍💻 Author
-
-**Ravi Sakharkar**  
-Supervised by: *Dr. Mahendra Gourisaria*
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
